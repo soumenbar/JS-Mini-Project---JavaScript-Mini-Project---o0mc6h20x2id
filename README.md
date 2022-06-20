@@ -1,4 +1,4 @@
-# html-css-java script shopping cart project
+# html-css-java script "Shopping Cart" project
 
 I have made a "Mini Shopping Cart Functionality" project using HTML,CSS and Java Sript.
 I used Api calling features Java Sript.
