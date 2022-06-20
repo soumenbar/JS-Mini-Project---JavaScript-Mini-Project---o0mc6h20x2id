@@ -1,0 +1,84 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Watch Revolve Chrome Silver",
+          "type": "Bands & Fitness",
+          "price": 2500,
+          "rating": 4,
+          "image": { "fields": { "file": { "url": "./products/pms_1601293021.06313819.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Smart Band 5 Black",
+          "type": "Bands & Fitness",
+          "price": 3000,
+          "rating": 3,
+          "image": { "fields": { "file": { "url": "./products/band5.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Smart Band 6 Black",
+          "type": "Bands & Fitness",
+          "price": 2200,
+          "rating": 5,
+          "image": { "fields": { "file": { "url": "./products/band6.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Watch Strap Olive",
+          "type": "Bands & Fitness",
+          "price": 2800,
+          "rating": 4,
+          "image": { "fields": { "file": { "url": "./products/watch_olive.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Watch GPS Ivory",
+          "type": "Bands & Fitness",
+          "price": 1880,
+          "rating": 2,
+          "image": { "fields": { "file": { "url": "./products/gps_ivory.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Smart Band Pro Sports Black",
+          "type": "Bands & Fitness",
+          "price": 3200,
+          "rating": 3,
+          "image": { "fields": { "file": { "url": "./products/sportwatch_black.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Smart Band 6 Charging Cable Black",
+          "type": "Bands & Fitness",
+          "price": 4500,
+          "rating": 5,
+          "image": { "fields": { "file": { "url": "./products/charging_cable.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Smart Band 5 Strap Orange",
+          "type": "Bands & Fitness",
+          "price": 1300,
+          "rating": 4,
+          "image": { "fields": { "file": { "url": "./products/orange_strap.png" } } }
+        }
+      }
+    ]
+  }
