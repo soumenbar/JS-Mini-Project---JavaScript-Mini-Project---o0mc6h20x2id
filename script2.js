@@ -280,7 +280,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // rendering products in the browser
       ui.insertProductsInDom(data);
       // saving products in the local storage
-     // Storage.saveProducts(data);
+      Storage.saveProducts(data);
       ui.initialSetup();
       ui.getBagButtons();
       ui.cartFuntionality();
