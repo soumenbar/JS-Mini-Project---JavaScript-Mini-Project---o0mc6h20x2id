@@ -46,7 +46,7 @@ class UserInterface {
     products.forEach((element) => {
       let star="";
       for(let i = 0; i<element.rating;i++){
-        star += `<i class="fas fa-star"></i>` //gives a filled star
+        star += `<i class="fas fa-star"></i>` 
       }
       for(let i = 0; i<5-element.rating;i++){
         star += `<i class="far fa-star"></i>`
