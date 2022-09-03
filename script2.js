@@ -1,4 +1,3 @@
-//dom Elements
 const productDom = document.querySelector(".products-center");
 const cartDom = document.querySelector(".cart-content");
 const cartMain = document.querySelector(".cart");
