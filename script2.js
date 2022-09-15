@@ -105,7 +105,7 @@ class UserInterface {
         event.target.innerHTML = "In Cart";
         event.target.disabled = true;
         //get the selected products
-        let selectedProduct = Storage.getLocalProduct(event.target.dataset.id);
+        let selectedProduct = Storage.getLocalProduct(id);
         //update the cartItems
         selectedProduct = { ...selectedProduct, amount: 1 };
         cart = [...cart, selectedProduct];
