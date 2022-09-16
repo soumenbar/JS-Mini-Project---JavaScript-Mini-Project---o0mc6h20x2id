@@ -16,6 +16,7 @@ header{
     z-index: 100;
 }
 .products-center {
+    height: 100vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
